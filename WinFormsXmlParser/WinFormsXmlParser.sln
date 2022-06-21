@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsXmlParser", "WinFormsXmlParser.csproj", "{7F817204-D3D5-471C-984A-D54DED838517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F817204-D3D5-471C-984A-D54DED838517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F817204-D3D5-471C-984A-D54DED838517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F817204-D3D5-471C-984A-D54DED838517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F817204-D3D5-471C-984A-D54DED838517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF74B55-2FCD-49CD-B840-817AE6BF7F62}
+	EndGlobalSection
+EndGlobal

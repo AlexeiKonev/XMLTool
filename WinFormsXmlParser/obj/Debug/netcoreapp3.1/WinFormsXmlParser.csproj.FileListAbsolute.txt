@@ -1,0 +1,16 @@
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\bin\Debug\netcoreapp3.1\WinFormsXmlParser.exe
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\bin\Debug\netcoreapp3.1\WinFormsXmlParser.deps.json
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\bin\Debug\netcoreapp3.1\WinFormsXmlParser.runtimeconfig.json
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\bin\Debug\netcoreapp3.1\WinFormsXmlParser.runtimeconfig.dev.json
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\bin\Debug\netcoreapp3.1\WinFormsXmlParser.dll
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\bin\Debug\netcoreapp3.1\WinFormsXmlParser.pdb
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\obj\Debug\netcoreapp3.1\WinFormsXmlParser.csproj.AssemblyReference.cache
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\obj\Debug\netcoreapp3.1\WinFormsXmlParser.Form1.resources
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\obj\Debug\netcoreapp3.1\WinFormsXmlParser.csproj.GenerateResource.cache
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\obj\Debug\netcoreapp3.1\WinFormsXmlParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\obj\Debug\netcoreapp3.1\WinFormsXmlParser.AssemblyInfoInputs.cache
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\obj\Debug\netcoreapp3.1\WinFormsXmlParser.AssemblyInfo.cs
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\obj\Debug\netcoreapp3.1\WinFormsXmlParser.csproj.CoreCompileInputs.cache
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\obj\Debug\netcoreapp3.1\WinFormsXmlParser.dll
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\obj\Debug\netcoreapp3.1\WinFormsXmlParser.pdb
+C:\projects\consolapps\WinFormsXmlParser\WinFormsXmlParser\obj\Debug\netcoreapp3.1\WinFormsXmlParser.genruntimeconfig.cache
